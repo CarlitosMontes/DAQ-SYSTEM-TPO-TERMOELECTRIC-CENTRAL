@@ -1,0 +1,2 @@
+# DAQ-SYSTEM-TPO-TERMOELECTRIC-CENTRAL
+DAQ System local variables
